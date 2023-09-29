@@ -31,6 +31,7 @@ Code
 
 | #    |                 LeetCode Problem Link                                                                      |         My Analysis & Code                                                                      |   Time   |   Space   |
 | ---- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |----------|-----------|
+| 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                          | [LinearParsing.swift](/LeetCode/8.%20String%20to%20Integer%20(atoi)/8.%20LinearParsing.swift)   | O(n)     | O(1)      |
 | 38   | [Count and Say](https://leetcode.com/problems/count-and-say/)                                              | [Counting.swift](/LeetCode/38.%20Count%20and%20Say/38.%20Counting.swift)                        | O(x^n)   | O(x^n)    |
 | 103  | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [BFS.py](/LeetCode/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/103.%20BFS.py) | O(N)     | O(N)      |
 | 162  | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                      | [Binary Search.py](/LeetCode/162.%20Find%20Peak%20Element/162.%20Binary%20Search.py)            | O(log N) | O(1)      |
@@ -56,3 +57,11 @@ Code
 
 
 </details>
+
+
+## Failed on the 1st try problems
+
+Saved analysis notes of problems I got stuck on the first try. May return to them once I 'forget' the problem context & my initial approach.
+
+**To be updated later**
+
