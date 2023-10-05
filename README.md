@@ -12,12 +12,21 @@ This repo shows how I would approach coding interviews with data structures & al
 Most problems were analyzed and broken down into following sections when solving them.
 
 ```
-# Input:
-# Output:
-# General cases & example I/O:
+# Input
+
+# Output
+
+# General cases & example I/O
+  Q: (Clarification Question)
+  A: (Clarification Answer)
+
 # Edge cases
+  Base case if exists
+
 # High level
-# Algorithm
+
+# Algorithm/Pseudo
+
 # Time/Space complexity
 
 Code
@@ -55,7 +64,7 @@ Code
 | 257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)                                      | [DFS.py](/LeetCode/257.%20Binary%20Tree%20Paths/257.%20DFS.py)                                  | O(N log N)  | O(N log N)      |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)                          | [Linear Search.py](/LeetCode/1108.%20Defanging%20an%20IP%20Address/1108.%20Linear%20Search.py)  | O(N)     | O(N)      |
 | 1114 | [Print in Order](https://leetcode.com/problems/print-in-order/)                                            | [Concurrency Lock.py](/LeetCode/1114.%20Print%20in%20Order/1114.%20Concurrency%20Lock.py)       | -        | -          |
-
+| 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)            | [Slope.py](/LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/1232.%20Slope.py)       | O(N)     | O(1)      |
 
 </details>
 
